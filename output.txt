@@ -1,0 +1,467 @@
+Jython
+starting
+finished calculating 7000 digits of pi in:
+14.7239999771
+finished char combo finding in:
+57.1419999599
+finished fib-ing in:
+52.8329999447
+-0.169075164
+-0.169008105
+finished sim-ing in:
+59.7730000019
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 7
+Milliseconds      : 881
+Ticks             : 1878814079
+TotalDays         : 0.00217455333217593
+TotalHours        : 0.0521892799722222
+TotalMinutes      : 3.13135679833333
+TotalSeconds      : 187.8814079
+TotalMilliseconds : 187881.4079
+
+starting
+finished calculating 7000 digits of pi in:
+14.7740001678
+finished char combo finding in:
+54.9659998417
+finished fib-ing in:
+53.5970001221
+-0.169075164
+-0.169008105
+finished sim-ing in:
+60.9700000286
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 7
+Milliseconds      : 165
+Ticks             : 1871656445
+TotalDays         : 0.00216626903356481
+TotalHours        : 0.0519904568055556
+TotalMinutes      : 3.11942740833333
+TotalSeconds      : 187.1656445
+TotalMilliseconds : 187165.6445
+
+starting
+finished calculating 7000 digits of pi in:
+14.8009998798
+finished char combo finding in:
+59.0329999924
+finished fib-ing in:
+53.6040000916
+-0.169075164
+-0.169008105
+finished sim-ing in:
+60.4099998474
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 10
+Milliseconds      : 703
+Ticks             : 1907038643
+TotalDays         : 0.00220722065162037
+TotalHours        : 0.0529732956388889
+TotalMinutes      : 3.17839773833333
+TotalSeconds      : 190.7038643
+TotalMilliseconds : 190703.8643
+
+starting
+finished calculating 7000 digits of pi in:
+14.9040000439
+finished char combo finding in:
+57.0130000114
+finished fib-ing in:
+53.8789999485
+-0.169075164
+-0.169008105
+finished sim-ing in:
+59.5360000134
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 8
+Milliseconds      : 193
+Ticks             : 1881936734
+TotalDays         : 0.0021781675162037
+TotalHours        : 0.0522760203888889
+TotalMinutes      : 3.13656122333333
+TotalSeconds      : 188.1936734
+TotalMilliseconds : 188193.6734
+
+starting
+finished calculating 7000 digits of pi in:
+14.9000000954
+finished char combo finding in:
+60.4459998608
+finished fib-ing in:
+52.3210000992
+-0.169075164
+-0.169008105
+finished sim-ing in:
+59.6070001125
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 10
+Milliseconds      : 118
+Ticks             : 1901185860
+TotalDays         : 0.00220044659722222
+TotalHours        : 0.0528107183333333
+TotalMinutes      : 3.1686431
+TotalSeconds      : 190.118586
+TotalMilliseconds : 190118.586
+
+IronPython
+starting
+finished calculating 7000 digits of pi in:
+68.6665039063
+finished char combo finding in:
+56.8339080811
+finished fib-ing in:
+46.5964279175
+-0.169075164
+-0.169008105
+finished sim-ing in:
+44.5565719604
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 38
+Milliseconds      : 348
+Ticks             : 2183483802
+TotalDays         : 0.00252718032638889
+TotalHours        : 0.0606523278333333
+TotalMinutes      : 3.63913967
+TotalSeconds      : 218.3483802
+TotalMilliseconds : 218348.3802
+
+starting
+finished calculating 7000 digits of pi in:
+69.9546813965
+finished char combo finding in:
+57.0629501343
+finished fib-ing in:
+47.3230667114
+-0.169075164
+-0.169008105
+finished sim-ing in:
+46.0389022827
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 40
+Milliseconds      : 972
+Ticks             : 2209721430
+TotalDays         : 0.00255754795138889
+TotalHours        : 0.0613811508333333
+TotalMinutes      : 3.68286905
+TotalSeconds      : 220.972143
+TotalMilliseconds : 220972.143
+
+starting
+finished calculating 7000 digits of pi in:
+69.8946304321
+finished char combo finding in:
+57.0188903809
+finished fib-ing in:
+46.6214370728
+-0.169075164
+-0.169008105
+finished sim-ing in:
+47.4381942749
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 41
+Milliseconds      : 574
+Ticks             : 2215746866
+TotalDays         : 0.00256452183564815
+TotalHours        : 0.0615485240555556
+TotalMinutes      : 3.69291144333333
+TotalSeconds      : 221.5746866
+TotalMilliseconds : 221574.6866
+
+starting
+finished calculating 7000 digits of pi in:
+73.7061004639
+finished char combo finding in:
+57.0002288818
+finished fib-ing in:
+47.5573043823
+-0.169075164
+-0.169008105
+finished sim-ing in:
+45.1295242310
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 43
+Milliseconds      : 980
+Ticks             : 2239807593
+TotalDays         : 0.00259236989930556
+TotalHours        : 0.0622168775833333
+TotalMinutes      : 3.733012655
+TotalSeconds      : 223.9807593
+TotalMilliseconds : 223980.7593
+
+starting
+finished calculating 7000 digits of pi in:
+69.6819839478
+finished char combo finding in:
+58.1269073486
+finished fib-ing in:
+47.0007858276
+-0.169075164
+-0.169008105
+finished sim-ing in:
+45.2291793823
+Days              : 0
+Hours             : 0
+Minutes           : 3
+Seconds           : 40
+Milliseconds      : 636
+Ticks             : 2206367429
+TotalDays         : 0.00255366600578704
+TotalHours        : 0.0612879841388889
+TotalMinutes      : 3.67727904833333
+TotalSeconds      : 220.6367429
+TotalMilliseconds : 220636.7429
+
+CPython
+starting
+finished calculating 7000 digits of pi in:
+18.0260000229
+finished char combo finding in:
+85.4289999008
+finished fib-ing in:
+57.6670000553
+-0.169075164
+-0.169008105
+finished sim-ing in:
+100.616999865
+Days              : 0
+Hours             : 0
+Minutes           : 4
+Seconds           : 22
+Milliseconds      : 482
+Ticks             : 2624822837
+TotalDays         : 0.00303798939467593
+TotalHours        : 0.0729117454722222
+TotalMinutes      : 4.37470472833333
+TotalSeconds      : 262.4822837
+TotalMilliseconds : 262482.2837
+
+starting
+finished calculating 7000 digits of pi in:
+18.1180000305
+finished char combo finding in:
+84.8899998665
+finished fib-ing in:
+57.3619999886
+-0.169075164
+-0.169008105
+finished sim-ing in:
+100.48300004
+Days              : 0
+Hours             : 0
+Minutes           : 4
+Seconds           : 21
+Milliseconds      : 13
+Ticks             : 2610131775
+TotalDays         : 0.00302098585069444
+TotalHours        : 0.0725036604166667
+TotalMinutes      : 4.350219625
+TotalSeconds      : 261.0131775
+TotalMilliseconds : 261013.1775
+
+starting
+finished calculating 7000 digits of pi in:
+18.1529998779
+finished char combo finding in:
+85.1830000877
+finished fib-ing in:
+57.5160000324
+-0.169075164
+-0.169008105
+finished sim-ing in:
+100.896999836
+Days              : 0
+Hours             : 0
+Minutes           : 4
+Seconds           : 21
+Milliseconds      : 919
+Ticks             : 2619193842
+TotalDays         : 0.00303147435416667
+TotalHours        : 0.0727553845
+TotalMinutes      : 4.36532307
+TotalSeconds      : 261.9193842
+TotalMilliseconds : 261919.3842
+
+starting
+finished calculating 7000 digits of pi in:
+18.1669998169
+finished char combo finding in:
+85.3070001602
+finished fib-ing in:
+57.5999999046
+-0.169075164
+-0.169008105
+finished sim-ing in:
+100.794000149
+Days              : 0
+Hours             : 0
+Minutes           : 4
+Seconds           : 22
+Milliseconds      : 35
+Ticks             : 2620353595
+TotalDays         : 0.00303281666087963
+TotalHours        : 0.0727875998611111
+TotalMinutes      : 4.36725599166667
+TotalSeconds      : 262.0353595
+TotalMilliseconds : 262035.3595
+
+starting
+finished calculating 7000 digits of pi in:
+18.1380000114
+finished char combo finding in:
+84.870000124
+finished fib-ing in:
+57.2829999924
+-0.169075164
+-0.169008105
+finished sim-ing in:
+100.717000008
+Days              : 0
+Hours             : 0
+Minutes           : 4
+Seconds           : 21
+Milliseconds      : 167
+Ticks             : 2611677658
+TotalDays         : 0.00302277506712963
+TotalHours        : 0.0725466016111111
+TotalMinutes      : 4.35279609666667
+TotalSeconds      : 261.1677658
+TotalMilliseconds : 261167.7658
+
+PyPy
+starting
+finished calculating 7000 digits of pi in:
+52.1790001392
+finished char combo finding in:
+6.88399982452
+finished fib-ing in:
+5.97200012207
+-0.169075164
+-0.169008105
+finished sim-ing in:
+9.96899986267
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 16
+Milliseconds      : 669
+Ticks             : 766699945
+TotalDays         : 0.000887384195601852
+TotalHours        : 0.0212972206944444
+TotalMinutes      : 1.27783324166667
+TotalSeconds      : 76.6699945
+TotalMilliseconds : 76669.9945
+
+starting
+finished calculating 7000 digits of pi in:
+52.2049999237
+finished char combo finding in:
+6.58100008965
+finished fib-ing in:
+4.132999897
+-0.169075164
+-0.169008105
+finished sim-ing in:
+10.0969998837
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 13
+Milliseconds      : 84
+Ticks             : 730849548
+TotalDays         : 0.000845890680555556
+TotalHours        : 0.0203013763333333
+TotalMinutes      : 1.21808258
+TotalSeconds      : 73.0849548
+TotalMilliseconds : 73084.9548
+
+starting
+finished calculating 7000 digits of pi in:
+51.8759999275
+finished char combo finding in:
+6.86599993706
+finished fib-ing in:
+4.04500007629
+-0.169075164
+-0.169008105
+finished sim-ing in:
+10.0090000629
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 12
+Milliseconds      : 860
+Ticks             : 728607445
+TotalDays         : 0.000843295653935185
+TotalHours        : 0.0202390956944444
+TotalMinutes      : 1.21434574166667
+TotalSeconds      : 72.8607445
+TotalMilliseconds : 72860.7445
+
+starting
+finished calculating 7000 digits of pi in:
+52.2279999256
+finished char combo finding in:
+6.64800000191
+finished fib-ing in:
+4.03100013733
+-0.169075164
+-0.169008105
+finished sim-ing in:
+10.1759998798
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 13
+Milliseconds      : 150
+Ticks             : 731504082
+TotalDays         : 0.000846648243055555
+TotalHours        : 0.0203195578333333
+TotalMinutes      : 1.21917347
+TotalSeconds      : 73.1504082
+TotalMilliseconds : 73150.4082
+
+starting
+finished calculating 7000 digits of pi in:
+51.8150000572
+finished char combo finding in:
+6.51300001144
+finished fib-ing in:
+4.08400011063
+-0.169075164
+-0.169008105
+finished sim-ing in:
+10.0479998589
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 12
+Milliseconds      : 525
+Ticks             : 725258845
+TotalDays         : 0.000839419959490741
+TotalHours        : 0.0201460790277778
+TotalMinutes      : 1.20876474166667
+TotalSeconds      : 72.5258845
+TotalMilliseconds : 72525.8845
+
+
