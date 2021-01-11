@@ -5,6 +5,7 @@ like any decent programmer i copypasted and then slightly adjusted the calculati
 aaaaand the n-body simulation stuff was taken from [here](pybenchmarks.org/u64q/program.php?test=nbody&lang=python&id=1)\
 aaaaaaaaaaaaaaaaaaand the recursive fib was borrowed from @jesse-toftum\
 ![graph of average total execution times](https://github.com/MrMyastan/py-impl-benchmarking/blob/main/graph.png?raw=true)\
-![graph of total execution times and averages](https://github.com/MrMyastan/py-impl-benchmarking/blob/main/graph.png?raw=true)\
+![graph of total execution times and averages](https://github.com/MrMyastan/py-impl-benchmarking/blob/main/chart.png?raw=true)\
 theres some more data about how long each interpreter took for each individual test in the output if you want to look, the only thing i noticed that seemed worth noting was that PyPy took ~60 seconds calculating pi (most of its time) and jython did it in ~13\
-the benchmark program happens to also be (i think) a valid python3 program so maybe ill test it with cpython 3 and pypy 3 one of these days
+the benchmark program happens to also be (i think) a valid python3 program so maybe ill test it with cpython 3 and pypy 3 one of these days\
+i ran the test on my Ryzen 7 2700, 32 GB 2933 mhz, rx 570 4gb machine with windows 10 and no other applications open and disconnected from wifi
